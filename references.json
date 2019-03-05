@@ -1,0 +1,25 @@
+{
+    "online-references":[
+        {
+            "url": "https://github.com/github/gitignore/blob/master/Qt.gitignore",
+            "contribution": "Ignore build files",
+            "file": ".gitignore"
+        },
+        {
+            "url": "https://doc.qt.io/qt-5/",
+            "contribution": "Refer to QT doc"
+        }
+    ],
+    "colleagues":[
+        {
+            "jacobs-id": "d.huynh",
+            "contribution": "initialization",
+            "file": ""
+        },
+        {
+            "jacobs-id": "g.adilbish",
+            "contribution": "initialization",
+            "file": ""
+        }
+    ]
+}
